@@ -18,7 +18,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.checker.ApplicationProperties;
+import com.checker.config.ApplicationProperties;
 import com.checker.settings.DateRange;
 import com.checker.settings.SettingIntepreterService;
 

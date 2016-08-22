@@ -1,4 +1,4 @@
-package com.checker;
+package com.checker.config;
 
 import java.util.Calendar;
 import java.util.Date;

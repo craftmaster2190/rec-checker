@@ -16,7 +16,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.checker.ApplicationProperties;
+import com.checker.config.ApplicationProperties;
 import com.checker.settings.SettingIntepreterService;
 import com.fasterxml.jackson.databind.JsonNode;
 
